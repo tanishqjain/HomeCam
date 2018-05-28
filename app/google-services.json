@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "349914291825",
+    "firebase_url": "https://homecam-f817d.firebaseio.com",
+    "project_id": "homecam-f817d",
+    "storage_bucket": "homecam-f817d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349914291825:android:f59b55f9a5d0cae4",
+        "android_client_info": {
+          "package_name": "com.example.tanishq.homecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349914291825-45dn67iei6g7tbh83mpl9h0k7nosmsa0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "349914291825-45dn67iei6g7tbh83mpl9h0k7nosmsa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp7_oQcAfsyAGrGdtWq7NdVM5TSYEMJsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
